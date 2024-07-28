@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RDI9AjkPlucaPAjTlp8SOWKoiD3775vzRsNHjMFDMO8A4iPPE7X/sz6gMebrpow2O2ZLlyohj+XIQUYitumtEQ==",
+  "success": true,
+  "projectFilePath": "C:\\TOG Projects\\OneDrive - Tech One Global Singapore Pte. Ltd\\Bank Asia\\Bank Aisa\\Bank Asia UAT\\BankingSystemApi\\BankingSystemApi\\Hangfire\\Hangfire.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mostafa\\.nuget\\packages\\hangfire.core\\1.8.6\\hangfire.core.1.8.6.nupkg.sha512",
+    "C:\\Users\\Mostafa\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

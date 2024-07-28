@@ -1,0 +1,163 @@
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\appsettings.Development.json
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\appsettings.json
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\BankingSystemApi.exe
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\BankingSystemApi.deps.json
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\BankingSystemApi.runtimeconfig.json
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\BankingSystemApi.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\BankingSystemApi.pdb
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Azure.Core.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Dapper.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\AppData.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\AppData.pdb
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\obj\Debug\net6.0\BankingSystemApi.csproj.AssemblyReference.cache
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\obj\Debug\net6.0\BankingSystemApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\obj\Debug\net6.0\BankingSystemApi.AssemblyInfoInputs.cache
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\obj\Debug\net6.0\BankingSystemApi.AssemblyInfo.cs
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\obj\Debug\net6.0\BankingSystemApi.csproj.CoreCompileInputs.cache
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\obj\Debug\net6.0\BankingSystemApi.MvcApplicationPartsAssemblyInfo.cs
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\obj\Debug\net6.0\BankingSystemApi.MvcApplicationPartsAssemblyInfo.cache
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\obj\Debug\net6.0\staticwebassets\msbuild.BankingSystemApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\obj\Debug\net6.0\staticwebassets\msbuild.build.BankingSystemApi.props
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BankingSystemApi.props
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BankingSystemApi.props
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\obj\Debug\net6.0\scopedcss\bundle\BankingSystemApi.styles.css
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\obj\Debug\net6.0\BankingSystemApi.csproj.CopyComplete
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\obj\Debug\net6.0\BankingSystemApi.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\obj\Debug\net6.0\refint\BankingSystemApi.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\obj\Debug\net6.0\BankingSystemApi.pdb
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\obj\Debug\net6.0\BankingSystemApi.genruntimeconfig.cache
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\TOG_BankAsia Lab\BankingSystemApi\BankingSystemApi\BankingSystemApi\obj\Debug\net6.0\ref\BankingSystemApi.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\appsettings.Development.json
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\appsettings.json
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\BankingSystemApi.exe
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\BankingSystemApi.deps.json
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\BankingSystemApi.runtimeconfig.json
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\BankingSystemApi.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\BankingSystemApi.pdb
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Azure.Core.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Dapper.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Hangfire.AspNetCore.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Hangfire.Core.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Hangfire.NetCore.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Hangfire.SqlServer.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\ca\Hangfire.Core.resources.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\de\Hangfire.Core.resources.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\es\Hangfire.Core.resources.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\fa\Hangfire.Core.resources.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\fr\Hangfire.Core.resources.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\nb\Hangfire.Core.resources.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\nl\Hangfire.Core.resources.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\pt-BR\Hangfire.Core.resources.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\pt-PT\Hangfire.Core.resources.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\pt\Hangfire.Core.resources.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\sv\Hangfire.Core.resources.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\tr-TR\Hangfire.Core.resources.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\zh-TW\Hangfire.Core.resources.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\zh\Hangfire.Core.resources.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\AppData.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\bin\Debug\net6.0\AppData.pdb
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\obj\Debug\net6.0\BankingSystemApi.csproj.AssemblyReference.cache
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\obj\Debug\net6.0\BankingSystemApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\obj\Debug\net6.0\BankingSystemApi.AssemblyInfoInputs.cache
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\obj\Debug\net6.0\BankingSystemApi.AssemblyInfo.cs
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\obj\Debug\net6.0\BankingSystemApi.csproj.CoreCompileInputs.cache
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\obj\Debug\net6.0\BankingSystemApi.MvcApplicationPartsAssemblyInfo.cs
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\obj\Debug\net6.0\BankingSystemApi.MvcApplicationPartsAssemblyInfo.cache
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\obj\Debug\net6.0\staticwebassets\msbuild.BankingSystemApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\obj\Debug\net6.0\staticwebassets\msbuild.build.BankingSystemApi.props
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BankingSystemApi.props
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BankingSystemApi.props
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\obj\Debug\net6.0\scopedcss\bundle\BankingSystemApi.styles.css
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\obj\Debug\net6.0\BankingSystemApi.csproj.CopyComplete
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\obj\Debug\net6.0\BankingSystemApi.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\obj\Debug\net6.0\refint\BankingSystemApi.dll
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\obj\Debug\net6.0\BankingSystemApi.pdb
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\obj\Debug\net6.0\BankingSystemApi.genruntimeconfig.cache
+C:\TOG Projects\OneDrive - Tech One Global Singapore Pte. Ltd\Bank Asia\Bank Aisa\Bank Asia UAT\BankingSystemApi\BankingSystemApi\BankingSystemApi\obj\Debug\net6.0\ref\BankingSystemApi.dll
